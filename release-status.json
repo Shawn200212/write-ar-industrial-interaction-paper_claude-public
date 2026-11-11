@@ -1,0 +1,9 @@
+{
+  "checked_on": "2026-11-11",
+  "platform": "claude",
+  "core": "write-ar-industrial-interaction-paper_claude",
+  "behavior_scope": "Bounded synthetic writing checks; no native Claude model or live application certification",
+  "source_sha256": {
+    "write-ar-industrial-interaction-paper": "26d7e60f34ec089b69194a746a574f75a3701dc2354566c31ad45b577727c1e2"
+  }
+}
